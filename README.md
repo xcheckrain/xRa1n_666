@@ -81,7 +81,7 @@ Things I host and manage:
 - 🔁 **CI/CD** — GitHub Actions → auto-deploy on push to `main`
 - 📊 **Monitoring** — Uptime Kuma + Grafana dashboards for bot uptime & latency
 - 🔒 **Security** — Cloudflare Tunnel, private networking, secrets via `.env` + Vault
-- 📦 **Self-hosted** — Gitea, Portainer, Uptime Kuma, custom dashboards
+- 📦 **Self-hosted** — Gitea, Portainer, Uptime Kuma
 
 ---
 
