@@ -5,9 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:5865F2,100:57F287&height=220&section=header&text=Your%20Name&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20Discord%20Bot%20Dev%20%7C%20%F0%9F%96%A5%EF%B8%8F%20Server%20Engineer&descSize=18&descAlignY=60&animation=twinkling)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Top.gg](https://img.shields.io/badge/Top.gg-%23FF3366.svg?style=for-the-badge&logo=top.gg&logoColor=white)](https://top.gg/bot/yourbotid)
-[![Portfolio](https://img.shields.io/badge/Website-%235865F2.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xcheckrain)
 
 <br/>
 
@@ -20,23 +18,24 @@
 
 ## 🤖 About Me
 
-```js
+```
 const dev = {
-  name:        "Aymen",
-  tag:         "yourname#0000",
+  name:        "Xrain",
   location:    "Morocco",
   specialties: ["Discord Bots", "REST APIs", "Backend Systems", "Server Infra"],
-  currently:   "Building @YourBotName — a multipurpose Discord bot",
-  stack:       ["Node.js", "Python", "MongoDB", "PostgreSQL", "Docker"],
-  reach:       "500+ servers • 50k+ users",
-  contact:     "DM me on Discord: yourname",
+  currently:   "Building @Ra1ny — a multipurpose Discord bot",
+  stack:       ["Node.js", "Lua", "MongoDB", "PostgreSQL", "Docker"],
+  contact:     "DM me on Discord: CRN",
 };
 ```
 
-- 🤖 I build **Discord bots** for moderation, music, games, utilities & more
-- 🖥️ I host and manage **Linux servers**, VPS, and self-hosted services
-- 🔧 Open to **bot commissions** and **freelance backend work**
-- ⚡ Fun fact: **My first bot had a `!ping` command and I never looked back**
+## 🤖 Discord Bot Developer & Backend Engineer
+
+* 🤖 **Discord Bots:** I build custom bots for moderation, music, games, utilities, and more.
+* 🎮 **Lua Developer:** Experienced in Lua development, specializing in scripting and customizing game servers like **MTA (Multi Theft Auto)** and other Lua-supported platforms.
+* 🖥️ **Infrastructure:** I host, configure, and manage **Linux servers**, VPS, and various self-hosted services.
+* 🔧 **Open for Work:** Available for bot commissions, game scripting, and freelance backend projects.
+* ⚡ **Fun Fact:** My first bot used a `!HelloC` command, and I never looked back!
 
 ---
 
@@ -78,24 +77,6 @@ const dev = {
 [!Under Maintenance]
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aYmen-ck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aYmen-ck&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🖥️ Server & Infrastructure
 
 Things I host and manage:
@@ -113,7 +94,7 @@ Things I host and manage:
 
 <div align="center">
 
-[![Discord Banner](https://discord.com/api/guilds/YOURGUILDID/widget.png?style=banner2)](https://discord.gg/yourinvite)
+[![Discord Banner](https://discord.com/api/guilds/1505915468676862124/widget.png?style=banner2)](https://discord.gg/MsqRkPDNF8)
 
 </div>
 
@@ -123,7 +104,7 @@ Join to get support for my bots, report bugs, suggest features, or just hang out
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CRN&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
@@ -139,7 +120,7 @@ Join to get support for my bots, report bugs, suggest features, or just hang out
 | 🖥️ VPS Setup | Bot hosting, Docker, Nginx, SSL | From $20 |
 | 🔧 Bot Feature Add-on | Add features to your existing bot | From $10 |
 
-📩 DM me on Discord: `@ink_1` or open an issue on any of my repos.
+📩 DM me on Discord: `@.ink_1` or open an issue on any of my repos.
 
 ---
 
