@@ -4,7 +4,7 @@
 <!-- ══════════════════════ HEADER ══════════════════════════════ -->
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:5865F2,100:57F287&height=220&section=header&text=Aymen%20Ck&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20Discord%20Bot%20Dev%20%7C%20%F0%9F%96%A5%EF%B8%8F%20Server%20Engineer&descSize=18&descAlignY=60&animation=twinkling)
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.ink_1)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xcheckrain)
 
 </div>
