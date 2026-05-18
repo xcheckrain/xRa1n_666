@@ -7,11 +7,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xcheckrain)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=5865F2&style=flat-square&label=Profile+Views)
-![Discord](https://img.shields.io/discord/YOURGUILDID?color=5865F2&label=Discord+Server&logo=discord&logoColor=white&style=flat-square)
-
 </div>
 
 ---
