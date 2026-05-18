@@ -89,7 +89,7 @@ Things I host and manage:
 
 <div align="center">
 
-[![Discord Banner]([https://discord.com/api/guilds/1505915468676862124/widget.png?style=banner2](https://cdn.discordapp.com/attachments/1505915472435085525/1505917956968943696/download.jfif?ex=6a0c5ee3&is=6a0b0d63&hm=3fc2c77ecb048b54189d9f6566c75e73621a3c52dc94047be886b60de0f0c41c&))](https://discord.gg/MsqRkPDNF8)
+[![Discord Banner]([[https://discord.com/api/guilds/1505915468676862124/widget.png?style=banner2](https://cdn.discordapp.com/attachments/1505915472435085525/1505917956968943696/download.jfif?ex=6a0c5ee3&is=6a0b0d63&hm=3fc2c77ecb048b54189d9f6566c75e73621a3c52dc94047be886b60de0f0c41c&](https://pin.it/yC8AV0Pds)))](https://discord.gg/MsqRkPDNF8)
 
 </div>
 
