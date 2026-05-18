@@ -98,15 +98,6 @@ Join to get support for my bots, report bugs, suggest features, or just hang out
 
 ## 💼 Commissions & Services
 
-> Open for work! Here's what I offer:
-
-| Service | Details | Price |
-|---------|---------|-------|
-| 🤖 Custom Discord Bot | Slash commands, buttons, modals, events | From $30 |
-| 🛡️ Moderation Bot | Automod, logs, anti-raid, role management | From $25 |
-| 🎵 Music Bot | Self-hosted Lavalink, queue, filters | From $40 |
-| 🖥️ VPS Setup | Bot hosting, Docker, Nginx, SSL | From $20 |
-| 🔧 Bot Feature Add-on | Add features to your existing bot | From $10 |
 
 📩 DM me on Discord: `@.ink_1` or open an issue on any of my repos.
 
