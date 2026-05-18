@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ══════════════════════ HEADER ══════════════════════════════ -->
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:5865F2,100:57F287&height=220&section=header&text=Your%20Name&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20Discord%20Bot%20Dev%20%7C%20%F0%9F%96%A5%EF%B8%8F%20Server%20Engineer&descSize=18&descAlignY=60&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:5865F2,100:57F287&height=220&section=header&text=Aymen%20Ck&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20Discord%20Bot%20Dev%20%7C%20%F0%9F%96%A5%EF%B8%8F%20Server%20Engineer&descSize=18&descAlignY=60&animation=twinkling)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xcheckrain)
@@ -100,13 +100,6 @@ Things I host and manage:
 
 Join to get support for my bots, report bugs, suggest features, or just hang out!
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CRN&theme=tokyo-night&hide_border=true&area=true)
-
----
 
 ## 💼 Commissions & Services
 
