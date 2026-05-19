@@ -4,7 +4,7 @@
 <!-- ══════════════════════ HEADER ══════════════════════════════ -->
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:5865F2,100:57F287&height=220&section=header&text=Aymen%20Ck&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%A4%96%20Discord%20Bot%20Dev%20%7C%20%F0%9F%96%A5%EF%B8%8F%20Server%20Engineer&descSize=18&descAlignY=60&animation=twinkling)
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MsqRkPDNF8)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RqtZGuTpPH)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xcheckrain)
 
 </div>
@@ -89,7 +89,7 @@ Things I host and manage:
 
 <div align="center">
 
-[![Discord Banner]([[https://discord.com/api/guilds/1505915468676862124/widget.png?style=banner2](https://cdn.discordapp.com/attachments/1505915472435085525/1505917956968943696/download.jfif?ex=6a0c5ee3&is=6a0b0d63&hm=3fc2c77ecb048b54189d9f6566c75e73621a3c52dc94047be886b60de0f0c41c&](https://pin.it/yC8AV0Pds)))](https://discord.gg/MsqRkPDNF8)
+[![Discord Banner]([[https://discord.com/api/guilds/1505915468676862124/widget.png?style=banner2](https://cdn.discordapp.com/attachments/1505915472435085525/1505917956968943696/download.jfif?ex=6a0c5ee3&is=6a0b0d63&hm=3fc2c77ecb048b54189d9f6566c75e73621a3c52dc94047be886b60de0f0c41c&](https://pin.it/yC8AV0Pds)))](https://discord.gg/RqtZGuTpPH)
 
 </div>
 
