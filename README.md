@@ -106,7 +106,6 @@ Join to get support for my bots, report bugs, suggest features, or just hang out
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:57F287,100:5865F2&height=120&section=footer)
-
-*Made with* ❤️ *and too many* `console.log` *statements*
+Thanks!
 
 </div>
